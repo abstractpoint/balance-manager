@@ -2,14 +2,14 @@
   "translation": {
     "homepage": {
       "connect_metamask": {
-        "description": "Connect to the MetaMask Chrome extension.",
-        "button": "Connect to MetaMask"
+        "description": "",
+        "button": ""
       },
       "connect_ledger": {
-        "description": "Connect and sign with your ",
-        "link_text": "Ledger hardware wallet",
-        "link_title": "Buy a Ledger hardware wallet",
-        "button": "Connect to Ledger"
+        "description": "",
+        "link_text": "",
+        "link_title": "",
+        "button": ""
       },
       "connect_walletconnect": "Connect and sign with your WalletConnect-enabled mobile wallet.",
       "coming_soon": "Coming soon."
